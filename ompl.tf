@@ -1,6 +1,6 @@
 locals {
   ompl_team = [
-    "JafarAbdi"
+    "JafarAbdi",
     "MarqRazz",
     "mamoll",
     "yadunund",
