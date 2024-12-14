@@ -1,9 +1,9 @@
 locals {
   ompl_team = [
+    "JafarAbdi"
+    "MarqRazz",
     "mamoll",
     "yadunund",
-    "MarqRazz",
-    "JafarAbdi"
   ]
   ompl_repositories = [
     "ompl-release",
